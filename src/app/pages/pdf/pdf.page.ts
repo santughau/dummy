@@ -8,6 +8,7 @@ import { PdfViewerComponent } from "ng2-pdf-viewer";
 })
 export class PdfPage implements OnInit {
   pdfSrc = "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf";
+  ssd: "";
   constructor() {}
 
   ngOnInit() {}

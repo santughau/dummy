@@ -1,0 +1,7 @@
+{
+  "name": "yamini",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
